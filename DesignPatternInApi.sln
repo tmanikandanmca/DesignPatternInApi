@@ -20,7 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-1", "Chapter-1", "{
 		Capter-1-Index.html = Capter-1-Index.html
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter-1", "Chapter-1\Chapter-1.csproj", "{E5E43C15-6ACB-419F-AB71-2CEB83AEBC9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWithCache", "Chapter-1\ApiWithCache.csproj", "{E5E43C15-6ACB-419F-AB71-2CEB83AEBC9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

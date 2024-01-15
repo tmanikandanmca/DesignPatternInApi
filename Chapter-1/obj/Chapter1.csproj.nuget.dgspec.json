@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\Chapter1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Application\\AdventureWorks.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Application\\AdventureWorks.Application.csproj",
+        "projectName": "AdventureWorks.Application",
+        "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Application\\AdventureWorks.Application.csproj",
+        "packagesPath": "C:\\Users\\tmani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Domain\\AdventureWorks.Domain.csproj": {
+                "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Domain\\AdventureWorks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Domain\\AdventureWorks.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Domain\\AdventureWorks.Domain.csproj",
+        "projectName": "AdventureWorks.Domain",
+        "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Domain\\AdventureWorks.Domain.csproj",
+        "packagesPath": "C:\\Users\\tmani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Infrastructure\\AdventureWorks.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Infrastructure\\AdventureWorks.Infrastructure.csproj",
+        "projectName": "AdventureWorks.Infrastructure",
+        "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Infrastructure\\AdventureWorks.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tmani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Application\\AdventureWorks.Application.csproj": {
+                "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Application\\AdventureWorks.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\Chapter1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\Chapter1.csproj",
+        "projectName": "Chapter1",
+        "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\Chapter1.csproj",
+        "packagesPath": "C:\\Users\\tmani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Application\\AdventureWorks.Application.csproj": {
+                "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Application\\AdventureWorks.Application.csproj"
+              },
+              "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Infrastructure\\AdventureWorks.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\AdventureWorks.Infrastructure\\AdventureWorks.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
