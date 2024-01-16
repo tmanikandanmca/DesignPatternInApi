@@ -5,22 +5,33 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{ABD1215F-CD94-453A-A0E1-BAB744EB12E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.Domain", "AdventureWorks.Domain\AdventureWorks.Domain.csproj", "{0CB233FE-5C6B-47E9-9226-36936289F15B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWorks.Domain", "AdventureWorks.Domain\AdventureWorks.Domain.csproj", "{0CB233FE-5C6B-47E9-9226-36936289F15B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.Infrastructure", "AdventureWorks.Infrastructure\AdventureWorks.Infrastructure.csproj", "{2F7B73D6-AC8C-4C44-AE83-43BC57A9B354}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWorks.Infrastructure", "AdventureWorks.Infrastructure\AdventureWorks.Infrastructure.csproj", "{2F7B73D6-AC8C-4C44-AE83-43BC57A9B354}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.Application", "AdventureWorks.Application\AdventureWorks.Application.csproj", "{739ED56F-DF3D-46D3-B6B7-D51299A59A70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWorks.Application", "AdventureWorks.Application\AdventureWorks.Application.csproj", "{739ED56F-DF3D-46D3-B6B7-D51299A59A70}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sales.Api", "Sales.Api", "{015F6798-DCFC-489F-BD77-812AA851C218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesApi", "SqlesApi\SalesApi.csproj", "{40E35290-92AB-4A47-B1BB-E2A11350B41B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesApi", "SqlesApi\SalesApi.csproj", "{40E35290-92AB-4A47-B1BB-E2A11350B41B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-1", "Chapter-1", "{99757895-F86B-44C2-B26E-199CE0F04D6A}"
 	ProjectSection(SolutionItems) = preProject
 		Capter-1-Index.html = Capter-1-Index.html
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWithCache", "Chapter-1\ApiWithCache.csproj", "{E5E43C15-6ACB-419F-AB71-2CEB83AEBC9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiWithCache", "Chapter-1\ApiWithCache.csproj", "{E5E43C15-6ACB-419F-AB71-2CEB83AEBC9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-2", "Chapter-2", "{BE4C7287-E4CB-464E-801D-5E84F058F3C1}"
+	ProjectSection(SolutionItems) = preProject
+		Chapter-2-Index.html = Chapter-2-Index.html
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorksWithRpository.Application", "AdventureWorksWithRpository.Application\AdventureWorksWithRpository.Application.csproj", "{E051DDD6-28BA-4FC4-AE8E-A1D126F10C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorksWithRespository.Infrastructure", "AdventureWorksWithRespository.Infrastructure\AdventureWorksWithRespository.Infrastructure.csproj", "{EBEDCD17-E85E-41F4-AF35-C37948D50C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryWorks", "RepositoryWorks\RepositoryWorks.csproj", "{D7D3D497-521C-438E-8543-C10CE977C773}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +59,18 @@ Global
 		{E5E43C15-6ACB-419F-AB71-2CEB83AEBC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5E43C15-6ACB-419F-AB71-2CEB83AEBC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5E43C15-6ACB-419F-AB71-2CEB83AEBC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E051DDD6-28BA-4FC4-AE8E-A1D126F10C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E051DDD6-28BA-4FC4-AE8E-A1D126F10C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E051DDD6-28BA-4FC4-AE8E-A1D126F10C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E051DDD6-28BA-4FC4-AE8E-A1D126F10C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEDCD17-E85E-41F4-AF35-C37948D50C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEDCD17-E85E-41F4-AF35-C37948D50C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEDCD17-E85E-41F4-AF35-C37948D50C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEDCD17-E85E-41F4-AF35-C37948D50C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D3D497-521C-438E-8543-C10CE977C773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D3D497-521C-438E-8543-C10CE977C773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D3D497-521C-438E-8543-C10CE977C773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D3D497-521C-438E-8543-C10CE977C773}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +81,9 @@ Global
 		{739ED56F-DF3D-46D3-B6B7-D51299A59A70} = {ABD1215F-CD94-453A-A0E1-BAB744EB12E6}
 		{40E35290-92AB-4A47-B1BB-E2A11350B41B} = {015F6798-DCFC-489F-BD77-812AA851C218}
 		{E5E43C15-6ACB-419F-AB71-2CEB83AEBC9D} = {99757895-F86B-44C2-B26E-199CE0F04D6A}
+		{E051DDD6-28BA-4FC4-AE8E-A1D126F10C2F} = {BE4C7287-E4CB-464E-801D-5E84F058F3C1}
+		{EBEDCD17-E85E-41F4-AF35-C37948D50C64} = {BE4C7287-E4CB-464E-801D-5E84F058F3C1}
+		{D7D3D497-521C-438E-8543-C10CE977C773} = {BE4C7287-E4CB-464E-801D-5E84F058F3C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DCCB856E-05EC-459D-9F3A-4E4AC2F6A81A}
