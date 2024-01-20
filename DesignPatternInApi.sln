@@ -34,6 +34,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryWorks", "RepositoryWorks\RepositoryWorks.csproj", "{D7D3D497-521C-438E-8543-C10CE977C773}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-3", "Chapter-3", "{A556271F-D175-4B00-9D0E-0B194351EE4C}"
+	ProjectSection(SolutionItems) = preProject
+		Chapter-3-Index.html = Chapter-3-Index.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
