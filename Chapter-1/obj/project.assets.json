@@ -3139,9 +3139,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\Chapter-1.csproj",
-      "projectName": "Chapter-1",
-      "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\Chapter-1.csproj",
+      "projectUniqueName": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\ApiWithCache.csproj",
+      "projectName": "ApiWithCache",
+      "projectPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\ApiWithCache.csproj",
       "packagesPath": "C:\\Users\\tmani\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\obj\\",
       "projectStyle": "PackageReference",

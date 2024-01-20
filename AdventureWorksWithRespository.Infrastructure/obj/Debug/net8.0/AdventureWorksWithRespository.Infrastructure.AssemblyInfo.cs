@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdventureWorksWithRespository.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d376ddd5d8c7f230e8959b47354db3937cf40430")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf950998cddd5ab2ef4bfe27c362d73b91dd8c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdventureWorksWithRespository.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdventureWorksWithRespository.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,11 +27,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-2", "Chapter-2", "{
 		Chapter-2-Index.html = Chapter-2-Index.html
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorksWithRpository.Application", "AdventureWorksWithRpository.Application\AdventureWorksWithRpository.Application.csproj", "{E051DDD6-28BA-4FC4-AE8E-A1D126F10C2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWorksWithRpository.Application", "AdventureWorksWithRpository.Application\AdventureWorksWithRpository.Application.csproj", "{E051DDD6-28BA-4FC4-AE8E-A1D126F10C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorksWithRespository.Infrastructure", "AdventureWorksWithRespository.Infrastructure\AdventureWorksWithRespository.Infrastructure.csproj", "{EBEDCD17-E85E-41F4-AF35-C37948D50C64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWorksWithRespository.Infrastructure", "AdventureWorksWithRespository.Infrastructure\AdventureWorksWithRespository.Infrastructure.csproj", "{EBEDCD17-E85E-41F4-AF35-C37948D50C64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryWorks", "RepositoryWorks\RepositoryWorks.csproj", "{D7D3D497-521C-438E-8543-C10CE977C773}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryWorks", "RepositoryWorks\RepositoryWorks.csproj", "{D7D3D497-521C-438E-8543-C10CE977C773}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-3", "Chapter-3", "{A556271F-D175-4B00-9D0E-0B194351EE4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

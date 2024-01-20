@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiWithCache")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea45b8f9f0ba79172b93c858f86b6501e79b320")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf950998cddd5ab2ef4bfe27c362d73b91dd8c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiWithCache")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiWithCache")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
