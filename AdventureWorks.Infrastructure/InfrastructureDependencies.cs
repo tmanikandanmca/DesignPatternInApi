@@ -12,7 +12,7 @@ public static class InfrastructureDependencies
     {
         services.AddDbContext<AdventureWorksContext>(opt =>
                 opt.UseSqlServer(Configuration.GetConnectionString("ShoppingCart")));
-        services.AddScoped<ICurrencyRepository, CurrencyRepository>();
+        services.AddScoped<ICurrencyRepository, ICurrencyRepository>();
         return services;
     }
 

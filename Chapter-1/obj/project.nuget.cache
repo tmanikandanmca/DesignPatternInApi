@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0aar4q7VMFiKXY2n2y8hXvdwTbXc8bdPikhwVOut4GSMzy1zGvxkD+SknsqbCh0wTZqT7y23Uqzlw06k0UCUcA==",
+  "dgSpecHash": "aigP0jpcZGxFmiLkh+SR0C/c/yH36ImjT3aX8/3zoZK5W7G6JUnsRO+t3pKxclJln9C3vrDbR9yzBbxKtn9opQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\Chapter-1.csproj",
+  "projectFilePath": "C:\\Users\\tmani\\source\\repos\\DesignPatternInApi\\Chapter-1\\ApiWithCache.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tmani\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\tmani\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

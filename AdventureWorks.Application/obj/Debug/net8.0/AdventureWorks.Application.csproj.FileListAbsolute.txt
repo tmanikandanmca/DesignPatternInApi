@@ -13,3 +13,4 @@ C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Application\obj\De
 C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Application\obj\Debug\net8.0\refint\AdventureWorks.Application.dll
 C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Application\obj\Debug\net8.0\AdventureWorks.Application.pdb
 C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Application\obj\Debug\net8.0\ref\AdventureWorks.Application.dll
+C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Application\obj\Debug\net8.0\AdventureWorks.Application.sourcelink.json

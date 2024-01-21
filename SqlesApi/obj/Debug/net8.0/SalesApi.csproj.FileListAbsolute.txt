@@ -74,3 +74,4 @@ C:\Users\tmani\source\repos\DesignPatternInApi\SqlesApi\obj\Debug\net8.0\refint\
 C:\Users\tmani\source\repos\DesignPatternInApi\SqlesApi\obj\Debug\net8.0\SalesApi.pdb
 C:\Users\tmani\source\repos\DesignPatternInApi\SqlesApi\obj\Debug\net8.0\SalesApi.genruntimeconfig.cache
 C:\Users\tmani\source\repos\DesignPatternInApi\SqlesApi\obj\Debug\net8.0\ref\SalesApi.dll
+C:\Users\tmani\source\repos\DesignPatternInApi\SqlesApi\obj\Debug\net8.0\SalesApi.sourcelink.json

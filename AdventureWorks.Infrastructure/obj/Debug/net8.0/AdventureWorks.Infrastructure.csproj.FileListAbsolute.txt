@@ -15,3 +15,4 @@ C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Infrastructure\obj
 C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Infrastructure\obj\Debug\net8.0\refint\AdventureWorks.Infrastructure.dll
 C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Infrastructure\obj\Debug\net8.0\AdventureWorks.Infrastructure.pdb
 C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Infrastructure\obj\Debug\net8.0\ref\AdventureWorks.Infrastructure.dll
+C:\Users\tmani\source\repos\DesignPatternInApi\AdventureWorks.Infrastructure\obj\Debug\net8.0\AdventureWorks.Infrastructure.sourcelink.json
