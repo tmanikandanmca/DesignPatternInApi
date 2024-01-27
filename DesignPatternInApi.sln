@@ -38,6 +38,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-3", "Chapter-3", "{
 		Chapter-3-Index.html = Chapter-3-Index.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-4", "Chapter-4", "{E85AE892-8E4B-4383-964C-A1AFB958E22F}"
+	ProjectSection(SolutionItems) = preProject
+		Chapter-4-Index.html = Chapter-4-Index.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
